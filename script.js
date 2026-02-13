@@ -1,4 +1,3 @@
-script.js
 const messages = [
   "You make my heart smile ❤️",
   "Every day with you is special 💕",
